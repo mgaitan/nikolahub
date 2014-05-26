@@ -5,7 +5,7 @@ Your Nikola blog rendered in the cloud.
 
 .. warning::
 
-   This is *work in progress* (and a proof of concept)
+   This is a *work in progress* (and a proof of concept)
    No functional code yet (and may be never)
 
 How it works
